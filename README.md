@@ -36,4 +36,4 @@ My goal is to become a remote backend engineer and build secure, scalable system
 ## 📫 Contact
 
 - Email: shimwayvon@gmail.com
-- LinkedIn: linkedin.com/in/shimwa-y-4a74b9303
+- LinkedIn: [linkedin.com/in/shimwa-y-4a74b9303](https://www.linkedin.com/in/shimwa-y-4a74b9303/)
