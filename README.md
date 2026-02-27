@@ -23,3 +23,11 @@ My goal is to become a remote backend engineer and build secure, scalable system
 - Git & GitHub
 - REST API Design
 - JWT Authentication
+---
+
+## 📌 Current Focus
+
+- Building production-ready backend projects
+- Improving system design skills
+- Learning secure authentication practices
+- Expanding knowledge in cybersecurity
