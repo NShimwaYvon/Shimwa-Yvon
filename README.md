@@ -31,3 +31,9 @@ My goal is to become a remote backend engineer and build secure, scalable system
 - Improving system design skills
 - Learning secure authentication practices
 - Expanding knowledge in cybersecurity
+---
+
+## 📫 Contact
+
+- Email: shimwayvon@gmail.com
+- LinkedIn: linkedin.com/in/shimwa-y-4a74b9303
