@@ -13,7 +13,14 @@ Currently improving my authentication systems, database design, and clean backen
 
 My goal is to become a remote backend engineer and build secure, scalable systems.
 ---
+---
 
+## 📌 Current Focus
+
+- Building production-ready backend projects
+- Improving system design skills
+- Learning secure authentication practices
+- Expanding knowledge in cybersecurity
 ## 🛠 Tech Stack
 
 - Python
